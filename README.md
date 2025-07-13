@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm dev_akshit</h1>
 <h3 align="center">I am passionate programmer, DSA enthusiast and MERN learner.</h3>
-
+<img align="right" alt="coding" width="400"  src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wNGxHlTCsH9zU90WDouoDQ.gif">
 - 🔭 I’m currently working on **Job portal app.**
 
 - 🌱 I’m currently learning **C++, DSA, DBMS, WEB Development**
